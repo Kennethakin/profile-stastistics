@@ -36,6 +36,14 @@ h4{
 @media (max-width:600px) {
     body{
         flex-direction: column;
+        margin-right: 30px;
+        margin-top: -40px;
+
+
     }
     
+    
+}
+footer{
+    font-family: 'Times New Roman', Times, serif;
 }
